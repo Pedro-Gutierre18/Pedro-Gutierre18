@@ -11,8 +11,8 @@ Este GitHub reúne meus projetos voltados para análise e visualização de dado
 </div>
 
 ## Habilidades Técnicas 
-**Ferramentas:** Power BI, Excel Avançado, Power Apps, Git, GitHub  
-**Linguagens:** Python, SQL, VBA  
+**Ferramentas:** Power BI, Excel, Git, GitHub  
+**Linguagens:** Python, SQL  
 **Conceitos:** ETL, Dashboards, Data Cleaning, Storytelling com Dados  
 **Metodologias:** Scrum, Kanban
 
