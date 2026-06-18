@@ -62,7 +62,7 @@ Meu foco atual é construir uma base sólida em Engenharia de Dados: pipelines, 
 | **Pipeline de Indicadores Econômicos** | ETL de indicadores econômicos brasileiros com armazenamento em SQL | Python · SQL |
 | **Micro SaaS — Análise de CVs com IA** | Plataforma de análise automatizada de currículos usando modelos de linguagem | Python · IA |
 | **Chatbot Financeiro** | Chatbot para consultas e controle financeiro pessoal | Python |
-| **Cargas Simpro e Brasíndice to Excel** | Pipeline de carga e tratamento de dados dos sistemas Simpro e Brasíndice para Excel | Python · Excel |
+| **Brasíndice to Excel** | Pipeline de carga e tratamento de dados dos sistema Brasíndice para Excel | Python · Excel |
 
 <div align="center">
 
