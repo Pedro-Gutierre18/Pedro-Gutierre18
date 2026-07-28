@@ -39,33 +39,3 @@ Meu foco atual é construir uma base sólida em Engenharia de Dados: pipelines, 
 
 `Scrum` `Kanban`
 
----
-
-## 📁 Projetos
-
-### ✅ Concluídos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Xbox Analytics v1** | Pipeline ETL com dados da Xbox Live API, visualizações em Power BI | Python · FastAPI · Power BI |
-| **Automação de Relatório Aging** | Automação de geração e formatação de relatório de aging hospitalar | Python |
-| **Análise de Churn de RH** | Modelo exploratório com dataset Kaggle para predição de turnover | Python · Pandas |
-| **Controle Financeiro Pessoal** | Dashboard de controle de receitas e despesas pessoais | Python · Excel · Power BI |
-
----
-
-### 🔄 Em andamento
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Automação de Cadastros no Tasy** | Automação de cadastro de planos no sistema hospitalar Tasy via Playwright | Python · Playwright |
-| **Pipeline de Indicadores Econômicos** | ETL de indicadores econômicos brasileiros com armazenamento em SQL | Python · SQL |
-| **Micro SaaS — Análise de CVs com IA** | Plataforma de análise automatizada de currículos usando modelos de linguagem | Python · IA |
-| **Chatbot Financeiro** | Chatbot para consultas e controle financeiro pessoal | Python |
-| **Brasíndice to Excel** | Pipeline de carga e tratamento de dados do sistema Brasíndice para Excel | Python · Excel |
-
-<div align="center">
-
-*Construindo um projeto de cada vez. Sempre com dados reais.*
-
-</div>
